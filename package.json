@@ -1,5 +1,5 @@
 {
-  "name": "tsopt",
+  "name": "@guyroyse/ts-optional",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/optional.cjs",

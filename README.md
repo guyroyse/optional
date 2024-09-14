@@ -7,7 +7,7 @@ A TypeScript library for optional values, providing a simple and type-safe way t
 Install in the usual way:
 
 ```sh
-npm install tsopt --save
+npm install @guyroyse/ts-optional --save
 ```
 
 ## Quick Start
