@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationDir": "./dist",
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "lib": ["ESNext", "DOM"],
+    "types": ["vitest/globals"],
+    "paths": {
+      "$lib/*": ["./lib/*"]
+    },
+    "noUncheckedIndexedAccess": true
+  }
+}

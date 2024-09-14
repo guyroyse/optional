@@ -1,0 +1,11 @@
+# Changelog
+
+_Functional_ changes to the public interface will be listed here, by version. _Non-functional_ changes may also be included, if they are particulary noteworthy or might impact developers using this library.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this library adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## 0.1.0 - 2025-09-13
+
+### Added
+
+- Created optional type
