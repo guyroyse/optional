@@ -1,5 +1,5 @@
 {
-  "name": "@guyroyse/ts-optional",
+  "name": "@guyroyse/optional",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/optional.cjs",

@@ -7,13 +7,13 @@ A TypeScript library for optional values, providing a simple and type-safe way t
 Install in the usual way:
 
 ```sh
-npm install @guyroyse/ts-optional --save
+npm install @guyroyse/optional --save
 ```
 
 ## Quick Start
 
 ```typescript
-import Optional from 'tsopt'
+import Optional from '@guyroyse/optional'
 
 // You've read some data. Is it null? ¯\_(ツ)_/¯
 const hello: string | null = readHello()
